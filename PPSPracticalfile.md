@@ -35,3 +35,4 @@ ______________________
 |   3   |  write a program to display the numbers between a range 1 to 100|
 |   4   |  write a program to display only even numbers between a range 1 to 100|
 |   5   |  write a program to display sum of even numbers between 1 to 100|
+6          write a program to display the report of patient using name, age, blood group,gender and desiese
