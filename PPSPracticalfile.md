@@ -32,3 +32,4 @@ ______________________
 |-------|-------------------------------|
 |   1   |  write a program to display a smile face by using puts|
 |   2   |  write a program to display man face 10 times by using for()|
+|   3   |  write a program 
