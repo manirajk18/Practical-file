@@ -25,7 +25,10 @@
                                               
                                             Guru Nanak Dev Engineering College 
                                  Department of Electronics and Communication Engineering
-  
-  
-  
-  
+                       
+______________________
+                                               Table of content
+| Sr No.|        List of practicals     |
+|-------|-------------------------------|
+|   1   |  write a program to display a smile face by using puts|
+|   2   |  write a program to display man face 10 times by using for()|
